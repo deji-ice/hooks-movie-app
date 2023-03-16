@@ -1,0 +1,10 @@
+.container{
+    background-color: #e5e5e5;
+    display: flex;
+    gap: 15em;
+    position: fixed;
+    padding: 0.1em;
+    margin: 0em 1em;
+    z-index: 100;
+    width: 100%;
+}
